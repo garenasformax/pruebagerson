@@ -1,3 +1,3 @@
 <?php
-echo "Priemra prueba con git";
+echo "Primera prueba con git";
 ?>
